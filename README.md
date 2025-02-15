@@ -1,3 +1,10 @@
+<a href="https://github.com/imiroslavov/imiroslavov">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imiroslavov/imiroslavov/refs/heads/main/night-shift-work.gif">
+    <img alt="Iliya Miroslavov Iliev's GitHub Profile README" src="https://raw.githubusercontent.com/imiroslavov/imiroslavov/refs/heads/main/night-shift-work.gif">
+  </picture>
+</a>
+
 <!--
 **imiroslavov/imiroslavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
