@@ -1,5 +1,9 @@
-## Hi there 👋
+<div align="left">
+    <img src="https://streak-stats.demolab.com?user=imiroslavov&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imiroslavov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
+###
 <!--
 **imiroslavov/imiroslavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
