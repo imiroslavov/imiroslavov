@@ -4,6 +4,11 @@
     <img alt="Iliya Miroslavov Iliev's GitHub Profile README" src="https://raw.githubusercontent.com/imiroslavov/imiroslavov/refs/heads/main/night-shift-work.gif">
   </picture>
 </a>
+<a href="https://readme-jokes.vercel.app">
+  <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
+</a>
+
+###
 
 <!--
 **imiroslavov/imiroslavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
